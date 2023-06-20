@@ -8,3 +8,7 @@ public class TestClass {
 	}
 
 }
+
+class Debug{
+	int num = 1;
+}
